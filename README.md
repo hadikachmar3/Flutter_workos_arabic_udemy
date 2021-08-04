@@ -14,8 +14,7 @@
 
 ## Starter project 👇
 
-
-[![Starter project to clone](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/hadikachmar3/Udemy_Store_app_start/tree/master "Starter project to clone - Click to View!")
+[![Starter project to clone](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/hadikachmar3/Flutter_workos_starter_project "Starter project to clone - Click to View!")
 
 ## Flutter helper kit 👇
 
