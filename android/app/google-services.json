@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795484549969",
+    "project_id": "workosarabic",
+    "storage_bucket": "workosarabic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795484549969:android:c27eef61d2b8e7c878d970",
+        "android_client_info": {
+          "package_name": "com.example.workos_arabic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795484549969-sdjfp4dsiu0uond4a4bir5fm305t746k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1rxI6By1PvNSERiqFRumPMpuxMC52So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795484549969-sdjfp4dsiu0uond4a4bir5fm305t746k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
